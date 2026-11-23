@@ -1,0 +1,13 @@
+# 本机会话与记忆数据，绝不上传
+.dsh-meow/
+.dsh-pilot/
+
+# 临时截图 / 调试产物
+_shots/
+*.log
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
