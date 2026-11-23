@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# 部署到公网后，把下面的域名换成你的，并解除注释
-# Sitemap: https://example.com/sitemap.xml
+Sitemap: https://rubia01.github.io/zhouzhi-kiwi/sitemap.xml
