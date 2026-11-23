@@ -1,5 +1,8 @@
 # 周至猕猴桃 · 宣传站
 
+**线上地址**：https://rubia01.github.io/zhouzhi-kiwi/
+**仓库**：https://github.com/rubia01/zhouzhi-kiwi
+
 纯静态单页品牌站，零构建、零依赖，双击 `index.html` 就能看。
 
 **主题**：陕西 · 西安 · 周至 —— 秦岭北麓的"中国猕猴桃之乡"，品牌口号「周至猕猴桃 · 鲜甜自有道」。
